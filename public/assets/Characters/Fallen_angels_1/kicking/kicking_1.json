@@ -1,0 +1,70 @@
+{
+"frames": {
+	"0_Fallen_Angels_Kicking_000": {
+		"frame": {"x":1191, "y":1142, "w":396, "h":559},
+		"spriteSourceSize": {"x":235,"y":192,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_001": {
+		"frame": {"x":1191, "y":574, "w":396, "h":567},
+		"spriteSourceSize": {"x":228,"y":184,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_002": {
+		"frame": {"x":1191, "y":0, "w":396, "h":573},
+		"spriteSourceSize": {"x":221,"y":178,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_003": {
+		"frame": {"x":794, "y":1155, "w":396, "h":578},
+		"spriteSourceSize": {"x":214,"y":173,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_004": {
+		"frame": {"x":0, "y":0, "w":397, "h":582},
+		"spriteSourceSize": {"x":207,"y":169,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_005": {
+		"frame": {"x":1588, "y":0, "w":396, "h":583},
+		"spriteSourceSize": {"x":204,"y":168,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_006": {
+		"frame": {"x":397, "y":1166, "w":396, "h":583},
+		"spriteSourceSize": {"x":205,"y":168,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_007": {
+		"frame": {"x":794, "y":571, "w":396, "h":583},
+		"spriteSourceSize": {"x":206,"y":168,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_008": {
+		"frame": {"x":0, "y":1161, "w":396, "h":582},
+		"spriteSourceSize": {"x":206,"y":169,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_009": {
+		"frame": {"x":397, "y":583, "w":396, "h":582},
+		"spriteSourceSize": {"x":207,"y":169,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_010": {
+		"frame": {"x":0, "y":583, "w":396, "h":577},
+		"spriteSourceSize": {"x":215,"y":174,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Kicking_011": {
+		"frame": {"x":398, "y":0, "w":396, "h":570},
+		"spriteSourceSize": {"x":224,"y":181,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	}
+
+},
+"meta": {
+	"image": "kicking_1.png",
+	"size": {"w": 1985, "h": 1750},
+	"scale": "1"
+}
+}

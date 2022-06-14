@@ -1,0 +1,100 @@
+{
+"frames": {
+	"0_Fallen_Angels_Idle_000": {
+		"frame": {"x":797, "y":1690, "w":396, "h":559},
+		"spriteSourceSize": {"x":235,"y":192,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_001": {
+		"frame": {"x":798, "y":565, "w":396, "h":560},
+		"spriteSourceSize": {"x":235,"y":191,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_002": {
+		"frame": {"x":399, "y":1126, "w":397, "h":561},
+		"spriteSourceSize": {"x":235,"y":190,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_003": {
+		"frame": {"x":399, "y":1688, "w":397, "h":562},
+		"spriteSourceSize": {"x":236,"y":189,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_004": {
+		"frame": {"x":1594, "y":0, "w":396, "h":562},
+		"spriteSourceSize": {"x":234,"y":189,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_005": {
+		"frame": {"x":1593, "y":1125, "w":396, "h":563},
+		"spriteSourceSize": {"x":232,"y":188,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_006": {
+		"frame": {"x":797, "y":1126, "w":397, "h":563},
+		"spriteSourceSize": {"x":229,"y":188,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_007": {
+		"frame": {"x":798, "y":0, "w":397, "h":564},
+		"spriteSourceSize": {"x":227,"y":187,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_008": {
+		"frame": {"x":1195, "y":565, "w":397, "h":564},
+		"spriteSourceSize": {"x":225,"y":187,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_009": {
+		"frame": {"x":0, "y":564, "w":398, "h":564},
+		"spriteSourceSize": {"x":222,"y":187,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_010": {
+		"frame": {"x":0, "y":1129, "w":398, "h":564},
+		"spriteSourceSize": {"x":222,"y":187,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_011": {
+		"frame": {"x":0, "y":0, "w":398, "h":563},
+		"spriteSourceSize": {"x":222,"y":188,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_012": {
+		"frame": {"x":399, "y":563, "w":398, "h":562},
+		"spriteSourceSize": {"x":222,"y":189,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_013": {
+		"frame": {"x":399, "y":0, "w":398, "h":562},
+		"spriteSourceSize": {"x":224,"y":189,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_014": {
+		"frame": {"x":1196, "y":0, "w":397, "h":562},
+		"spriteSourceSize": {"x":226,"y":189,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_015": {
+		"frame": {"x":1195, "y":1130, "w":397, "h":561},
+		"spriteSourceSize": {"x":228,"y":190,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_016": {
+		"frame": {"x":1593, "y":563, "w":396, "h":561},
+		"spriteSourceSize": {"x":230,"y":190,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Idle_017": {
+		"frame": {"x":1593, "y":1689, "w":396, "h":560},
+		"spriteSourceSize": {"x":232,"y":191,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	}
+
+},
+"meta": {
+	"image": "idle_1.png",
+	"size": {"w": 1991, "h": 2251},
+	"scale": "1"
+}
+}

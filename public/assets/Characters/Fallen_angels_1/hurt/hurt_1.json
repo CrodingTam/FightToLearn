@@ -1,0 +1,45 @@
+{
+"frames": {
+	"0_Fallen_Angels_Hurt_000": {
+		"frame": {"x":1213, "y":573, "w":396, "h":559},
+		"spriteSourceSize": {"x":235,"y":192,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Hurt_002": {
+		"frame": {"x":424, "y":0, "w":401, "h":566},
+		"spriteSourceSize": {"x":264,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Hurt_003": {
+		"frame": {"x":1213, "y":0, "w":399, "h":572},
+		"spriteSourceSize": {"x":216,"y":179,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Hurt_004": {
+		"frame": {"x":0, "y":0, "w":423, "h":566},
+		"spriteSourceSize": {"x":162,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Hurt_008": {
+		"frame": {"x":0, "y":567, "w":407, "h":561},
+		"spriteSourceSize": {"x":174,"y":190,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Hurt_009": {
+		"frame": {"x":408, "y":567, "w":404, "h":562},
+		"spriteSourceSize": {"x":189,"y":189,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Hurt_011": {
+		"frame": {"x":813, "y":567, "w":399, "h":562},
+		"spriteSourceSize": {"x":218,"y":189,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	}
+
+},
+"meta": {
+	"image": "hurt_1.png",
+	"size": {"w": 1613, "h": 1133},
+	"scale": "1"
+}
+}

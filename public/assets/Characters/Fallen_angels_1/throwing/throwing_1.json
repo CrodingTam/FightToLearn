@@ -1,0 +1,70 @@
+{
+"frames": {
+	"0_Fallen_Angels_Throwing_000": {
+		"frame": {"x":1274, "y":1135, "w":399, "h":566},
+		"spriteSourceSize": {"x":212,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_001": {
+		"frame": {"x":1274, "y":568, "w":399, "h":566},
+		"spriteSourceSize": {"x":223,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_002": {
+		"frame": {"x":1674, "y":0, "w":398, "h":568},
+		"spriteSourceSize": {"x":251,"y":184,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_003": {
+		"frame": {"x":454, "y":1104, "w":410, "h":559},
+		"spriteSourceSize": {"x":288,"y":193,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_004": {
+		"frame": {"x":454, "y":0, "w":452, "h":550},
+		"spriteSourceSize": {"x":286,"y":202,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_005": {
+		"frame": {"x":0, "y":0, "w":453, "h":551},
+		"spriteSourceSize": {"x":285,"y":201,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_006": {
+		"frame": {"x":0, "y":552, "w":453, "h":550},
+		"spriteSourceSize": {"x":284,"y":202,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_007": {
+		"frame": {"x":0, "y":1103, "w":453, "h":549},
+		"spriteSourceSize": {"x":283,"y":202,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_008": {
+		"frame": {"x":454, "y":551, "w":439, "h":552},
+		"spriteSourceSize": {"x":284,"y":199,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_009": {
+		"frame": {"x":865, "y":1104, "w":408, "h":558},
+		"spriteSourceSize": {"x":286,"y":193,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_010": {
+		"frame": {"x":907, "y":0, "w":402, "h":567},
+		"spriteSourceSize": {"x":264,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Throwing_011": {
+		"frame": {"x":1674, "y":569, "w":398, "h":569},
+		"spriteSourceSize": {"x":240,"y":183,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	}
+
+},
+"meta": {
+	"image": "throwing_1.png",
+	"size": {"w": 2073, "h": 1702},
+	"scale": "1"
+}
+}

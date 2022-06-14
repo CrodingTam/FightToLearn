@@ -1,0 +1,70 @@
+{
+"frames": {
+	"0_Fallen_Angels_Slashing_000": {
+		"frame": {"x":1736, "y":559, "w":401, "h":566},
+		"spriteSourceSize": {"x":212,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_001": {
+		"frame": {"x":1736, "y":1126, "w":399, "h":566},
+		"spriteSourceSize": {"x":223,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_002": {
+		"frame": {"x":0, "y":0, "w":612, "h":568},
+		"spriteSourceSize": {"x":251,"y":184,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_003": {
+		"frame": {"x":1160, "y":1120, "w":575, "h":559},
+		"spriteSourceSize": {"x":288,"y":193,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_004": {
+		"frame": {"x":591, "y":569, "w":577, "h":550},
+		"spriteSourceSize": {"x":286,"y":202,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_005": {
+		"frame": {"x":581, "y":1139, "w":578, "h":551},
+		"spriteSourceSize": {"x":285,"y":201,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_006": {
+		"frame": {"x":0, "y":1689, "w":579, "h":550},
+		"spriteSourceSize": {"x":284,"y":202,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_007": {
+		"frame": {"x":0, "y":1139, "w":580, "h":549},
+		"spriteSourceSize": {"x":283,"y":202,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_008": {
+		"frame": {"x":1160, "y":1680, "w":575, "h":552},
+		"spriteSourceSize": {"x":284,"y":199,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_009": {
+		"frame": {"x":1190, "y":0, "w":564, "h":558},
+		"spriteSourceSize": {"x":286,"y":193,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_010": {
+		"frame": {"x":613, "y":0, "w":576, "h":567},
+		"spriteSourceSize": {"x":264,"y":185,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Slashing_011": {
+		"frame": {"x":0, "y":569, "w":590, "h":569},
+		"spriteSourceSize": {"x":240,"y":183,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	}
+
+},
+"meta": {
+	"image": "slashing_1.png",
+	"size": {"w": 2138, "h": 2240},
+	"scale": "1"
+}
+}

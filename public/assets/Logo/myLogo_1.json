@@ -1,0 +1,15 @@
+{
+"frames": {
+	"myLogo": {
+		"frame": {"x":0, "y":0, "w":462, "h":254},
+		"spriteSourceSize": {"x":85,"y":30,"w":675,"h":370},
+		"sourceSize": {"w":675,"h":370}
+	}
+
+},
+"meta": {
+	"image": "myLogo_1.png",
+	"size": {"w": 463, "h": 255},
+	"scale": "1"
+}
+}

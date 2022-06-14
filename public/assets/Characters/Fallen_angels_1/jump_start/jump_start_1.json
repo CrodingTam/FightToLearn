@@ -1,0 +1,40 @@
+{
+"frames": {
+	"0_Fallen_Angels_Jump Start_000": {
+		"frame": {"x":805, "y":564, "w":396, "h":559},
+		"spriteSourceSize": {"x":235,"y":192,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Jump Start_001": {
+		"frame": {"x":804, "y":0, "w":397, "h":563},
+		"spriteSourceSize": {"x":227,"y":183,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Jump Start_002": {
+		"frame": {"x":404, "y":0, "w":399, "h":563},
+		"spriteSourceSize": {"x":219,"y":176,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Jump Start_003": {
+		"frame": {"x":403, "y":569, "w":401, "h":566},
+		"spriteSourceSize": {"x":211,"y":168,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Jump Start_004": {
+		"frame": {"x":0, "y":569, "w":402, "h":567},
+		"spriteSourceSize": {"x":203,"y":161,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Jump Start_005": {
+		"frame": {"x":0, "y":0, "w":403, "h":568},
+		"spriteSourceSize": {"x":195,"y":155,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	}
+
+},
+"meta": {
+	"image": "jump_start_1.png",
+	"size": {"w": 1202, "h": 1137},
+	"scale": "1"
+}
+}

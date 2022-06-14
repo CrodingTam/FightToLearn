@@ -1,0 +1,40 @@
+{
+"frames": {
+	"0_Fallen_Angels_Sliding_000": {
+		"frame": {"x":994, "y":508, "w":490, "h":509},
+		"spriteSourceSize": {"x":40,"y":306,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Sliding_001": {
+		"frame": {"x":994, "y":0, "w":494, "h":507},
+		"spriteSourceSize": {"x":38,"y":308,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Sliding_002": {
+		"frame": {"x":0, "y":1014, "w":498, "h":506},
+		"spriteSourceSize": {"x":36,"y":309,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Sliding_003": {
+		"frame": {"x":0, "y":0, "w":502, "h":506},
+		"spriteSourceSize": {"x":34,"y":310,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Sliding_004": {
+		"frame": {"x":0, "y":507, "w":498, "h":506},
+		"spriteSourceSize": {"x":36,"y":309,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	},
+	"0_Fallen_Angels_Sliding_005": {
+		"frame": {"x":499, "y":507, "w":494, "h":507},
+		"spriteSourceSize": {"x":38,"y":308,"w":900,"h":900},
+		"sourceSize": {"w":900,"h":900}
+	}
+
+},
+"meta": {
+	"image": "sliding_1.png",
+	"size": {"w": 1489, "h": 1521},
+	"scale": "1"
+}
+}
